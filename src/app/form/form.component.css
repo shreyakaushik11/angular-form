@@ -1,0 +1,17 @@
+.col-md-6 {
+  float: none;
+  display: block;
+  margin: 0 auto;
+}
+
+.col-lg-6 {
+  float: none;
+  display: block;
+  margin: 0 auto;
+}
+
+span button {
+  margin: auto;
+  display: block;
+  margin-bottom: 20px;
+}
